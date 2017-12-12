@@ -1,0 +1,25 @@
+header {
+	text-align: right;
+}
+
+h1 {
+	text-align: center;
+}
+
+img {
+	display: block;
+	margin: auto;
+	width: 50%;
+}
+
+.bullets {
+	text-align: center;
+}
+
+.about {
+	display: block;
+	text-align: center;
+	margin: auto;
+	width: 80%;
+	font-size: 28px;
+}
