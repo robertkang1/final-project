@@ -1,7 +1,10 @@
 console.log('test');
 
 $(document).ready(function(){
-	$('#button').click(function() {
-		$("#emailform").show();
+	$('.emailform').hide()
+
+	$('#button1').click(function() {
+		$('.emailform').show();
+		console.log('HELLO');
 	});
 });
